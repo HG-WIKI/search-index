@@ -15,6 +15,17 @@
       "date": "2026-05-16"
     },
     {
+      "title": "Hoy Dia Cordoba",
+      "url": "https://hoydia.com.ar/",
+      "content": "Noticias actualizadas al instante con todo lo que sucede en Córdoba, Argentina y el Mundo.",
+      "thumbnail": "",
+      "labels": ["Diario Digital", "Periodismo", "Cordoba"],
+      "type": "external",
+      "source": "🔗 Medio Comunicacion",
+      "category": "Medio de Comunicacion",
+      "date": "2026-05-17"
+    },
+    {
       "title": "Estancia de Jesus Maria",
       "url": "https://linktr.ee/estanciadejesusmaria/",
       "content": "Museo Jesuitico Nacional",
